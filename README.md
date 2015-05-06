@@ -8,10 +8,10 @@ This project uses [CMake](http://www.cmake.org/). You may use the following comm
 CMake, GLib and Hexchat are installed on your system:
 
 ```bash
-        mkdir build/
-        cd build/
-        cmake ..
-        make
+mkdir build/
+cd build/
+cmake ..
+make
 ```
 
 The plugin binaries will be generated in the sub-folders of build/
